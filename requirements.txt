@@ -1,1 +1,10 @@
 
+pandas
+numpy
+nltk
+scikit-learn
+xgboost
+lightgbm
+catboost
+tqdm
+streamlit
